@@ -4,19 +4,19 @@
     "repository": "https://github.com/kyb3r/modmail",
     "env": {
         "TOKEN": {
-            "description": "Your discord bot's token.",
+            "description": "",
             "required": true
         },
         "GUILD_ID": {
-            "description": "The id for the server you are hosting this bot for.",
+            "description": "903109494521872404",
             "required": true
         },
         "MODMAIL_GUILD_ID": {
-            "description": "The ID of the discord server where the threads channels should be created (receiving server). Default to GUILD_ID.",
+            "description": "T903109494521872404",
             "required": false
         },
         "OWNERS": {
-            "description": "Comma separated user IDs of people that are allowed to use owner only commands. (eval).",
+            "description": "Junayd#6226",
             "required": true
         },
         "CONNECTION_URI": {
